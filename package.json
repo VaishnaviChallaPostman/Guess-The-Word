@@ -1,0 +1,29 @@
+{
+  "name": "guess-the-word",
+  "version": "1.0.0",
+  "description": "Guess The Word",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vaishnavi Challa",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^3.0.0",
+    "websocket": "^1.0.34"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "heroku",
+    "node",
+    "guess-the-word"
+  ],
+  
+  "engines": {
+    "node": "12.13.0"
+  }
+}
+
+
+
